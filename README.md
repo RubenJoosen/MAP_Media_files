@@ -12,3 +12,5 @@ There are three subdirectories:
   - Simulations : all kinds of simulation videos
   
 3. Weights, with all the different trained weight files
+
+4. Output, a folder with all the annotated images for training a model.
