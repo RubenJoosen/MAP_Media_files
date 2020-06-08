@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>135438_05-11_categorie_4.jpg</filename>
+    <path>Crabs-PascalVOC-export/Annotations/135438_05-11_categorie_4.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>1944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>738.5711239235386</xmin>
+        <ymin>1321.2701949860725</ymin>
+        <xmax>939.8705636743215</xmax>
+        <ymax>1483.7214484679666</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>541.6008020452766</xmin>
+        <ymin>1130.6607407593795</ymin>
+        <xmax>719.0906714835595</xmax>
+        <ymax>1360.2585619233114</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>673.6358420863779</xmin>
+        <ymin>476.52367688022287</ymin>
+        <xmax>859.7837821307412</xmax>
+        <ymax>684.4613309132355</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1701.77780450809</xmin>
+        <ymin>597.8206623895587</ymin>
+        <xmax>1959.3544554899531</xmax>
+        <ymax>771.1019994369125</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1803.509845136352</xmin>
+        <ymin>1498.8836646119864</ymin>
+        <xmax>2002.6446433813937</xmax>
+        <ymax>1711.1532033426183</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>123050_05-11_categorie_1.jpg</filename>
+    <path>Crabs-PascalVOC-export/Annotations/123050_05-11_categorie_1.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>1944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>602.4776287676149</xmin>
+        <ymin>812.2562674094708</ymin>
+        <xmax>745.3352157815763</xmax>
+        <ymax>959.5453873743254</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1355.726964134264</xmin>
+        <ymin>638.974930362117</ymin>
+        <xmax>1513.736050854645</xmax>
+        <ymax>773.2679830992122</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1890.36071853797</xmin>
+        <ymin>1641.8407346252611</ymin>
+        <xmax>2048.3699703973125</xmax>
+        <ymax>1834.6162551412344</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1916.3349303562109</xmin>
+        <ymin>1156.6529578418786</ymin>
+        <xmax>2050.5346119030532</xmax>
+        <ymax>1325.6023275646328</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1745.3386551572287</xmin>
+        <ymin>888.066852367688</ymin>
+        <xmax>1888.19624217119</xmax>
+        <ymax>1039.6880222841226</ymax>
+    </bndbox>
+</object>
+</annotation>

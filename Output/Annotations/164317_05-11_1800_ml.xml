@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>164317_05-11_1800_ml.jpg</filename>
+    <path>Crabs-PascalVOC-export/Annotations/164317_05-11_1800_ml.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>1944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>909.5673991225209</xmin>
+        <ymin>890.2329186569681</ymin>
+        <xmax>1054.5896276422234</xmax>
+        <ymax>1046.1860558980022</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1156.321503131524</xmin>
+        <ymin>1102.5025400145805</ymin>
+        <xmax>1344.6337544037056</xmax>
+        <ymax>1256.289693593315</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1281.8631140722862</xmin>
+        <ymin>914.0590694501872</ymin>
+        <xmax>1485.3268650508874</xmax>
+        <ymax>1132.826724421679</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1545.9331941544885</xmin>
+        <ymin>1083.008356545961</ymin>
+        <xmax>1786.1937039241911</xmax>
+        <ymax>1286.613960627394</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>697.4455775378393</xmin>
+        <ymin>907.5610358363075</ymin>
+        <xmax>887.9223051768007</xmax>
+        <ymax>1033.1899886702429</ymax>
+    </bndbox>
+</object>
+</annotation>

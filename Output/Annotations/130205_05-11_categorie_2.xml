@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>130205_05-11_categorie_2.jpg</filename>
+    <path>Crabs-PascalVOC-export/Annotations/130205_05-11_categorie_2.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>1944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>634.9452696861953</xmin>
+        <ymin>1299.6100278551532</ymin>
+        <xmax>777.8028567001567</xmax>
+        <ymax>1527.0417827298052</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1634.9487090618477</xmin>
+        <ymin>1247.625593690155</ymin>
+        <xmax>1790.7933194154489</xmax>
+        <ymax>1449.065214109288</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>994.2537961573591</xmin>
+        <ymin>881.5688187538083</ymin>
+        <xmax>1165.2500713563413</xmax>
+        <ymax>1061.3481894150418</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>905.5089440076983</xmin>
+        <ymin>654.1370638791565</ymin>
+        <xmax>1080.8341719402401</xmax>
+        <ymax>840.4144681542696</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1098.150313152401</xmin>
+        <ymin>558.8322954523198</ymin>
+        <xmax>1260.488517745303</xmax>
+        <ymax>764.6038831960525</ymax>
+    </bndbox>
+</object>
+</annotation>

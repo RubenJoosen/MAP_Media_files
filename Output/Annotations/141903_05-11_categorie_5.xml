@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>141903_05-11_categorie_5.jpg</filename>
+    <path>Crabs-PascalVOC-export/Annotations/141903_05-11_categorie_5.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>1944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1509.1366005023488</xmin>
+        <ymin>1054.8501558011621</ymin>
+        <xmax>1879.2676739463727</xmax>
+        <ymax>1368.922661826471</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1275.3695198329854</xmin>
+        <ymin>1342.9303621169915</ymin>
+        <xmax>1504.8074826298277</xmax>
+        <ymax>1596.3544167011228</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1400.9111307737476</xmin>
+        <ymin>281.58217270194984</ymin>
+        <xmax>1677.96823419559</xmax>
+        <ymax>530.6740947075209</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1091.3862212943634</xmin>
+        <ymin>218.76769628498215</ymin>
+        <xmax>1342.469278036926</xmax>
+        <ymax>446.1994924731241</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>706.1034830049583</xmin>
+        <ymin>647.6390302652768</ymin>
+        <xmax>920.3899460953811</xmax>
+        <ymax>896.7309522708479</ymax>
+    </bndbox>
+</object>
+</annotation>

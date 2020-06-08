@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>130150_05-11_categorie_2.jpg</filename>
+    <path>Crabs-PascalVOC-export/Annotations/130150_05-11_categorie_2.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>1944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1044.0375782881003</xmin>
+        <ymin>820.9203673126306</ymin>
+        <xmax>1210.7047356145617</xmax>
+        <ymax>1000.699737973864</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>663.0839578712161</xmin>
+        <ymin>1269.285760821074</ymin>
+        <xmax>788.6254036730166</xmax>
+        <ymax>1457.7293140124477</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>522.3907646545538</xmin>
+        <ymin>1260.621826171875</ymin>
+        <xmax>652.261410898356</xmax>
+        <ymax>1470.7253812402073</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1615.468091482907</xmin>
+        <ymin>1607.1845002665825</ymin>
+        <xmax>1753.9967257633089</xmax>
+        <ymax>1795.6278882039956</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1671.7453027139875</xmin>
+        <ymin>662.8011637823163</ymin>
+        <xmax>1840.57710154619</xmax>
+        <ymax>833.9164345403899</ymax>
+    </bndbox>
+</object>
+</annotation>

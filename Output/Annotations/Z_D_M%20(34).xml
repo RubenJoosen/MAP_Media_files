@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Z_D_M%20(34).jpg</filename>
+    <path>Crabs-PascalVOC-export/Annotations/Z_D_M%20(34).jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>1944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1501.2901878914406</xmin>
+        <ymin>1433.9031632192286</ymin>
+        <xmax>1975.3177783305064</xmax>
+        <ymax>1944</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1882.2438083083248</xmin>
+        <ymin>480.85572683180277</ymin>
+        <xmax>2345.449016913492</xmax>
+        <ymax>950.8813700981459</ymax>
+    </bndbox>
+</object>
+</annotation>

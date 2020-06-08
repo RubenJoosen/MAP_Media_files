@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>H_D_mirror%20(37).jpg</filename>
+    <path>Crabs-PascalVOC-export/Annotations/H_D_mirror%20(37).jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>1944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>150.6362926507046</xmin>
+        <ymin>374.7209161529966</ymin>
+        <xmax>732.8893528183717</xmax>
+        <ymax>818.7543010233505</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1741.5506976611432</xmin>
+        <ymin>1072.1782729805013</ymin>
+        <xmax>2291.336282049191</xmax>
+        <ymax>1568.1961333293436</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>321.63256784968684</xmin>
+        <ymin>833.91643454039</ymin>
+        <xmax>884.4050104384135</xmax>
+        <ymax>1195.6413247791174</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>230.72315676376567</xmin>
+        <ymin>1202.1392757660167</ymin>
+        <xmax>821.6342049680325</xmax>
+        <ymax>1652.6708181907206</ymax>
+    </bndbox>
+</object>
+</annotation>

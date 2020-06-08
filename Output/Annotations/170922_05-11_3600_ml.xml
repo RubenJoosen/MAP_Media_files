@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>170922_05-11_3600_ml.jpg</filename>
+    <path>Crabs-PascalVOC-export/Annotations/170922_05-11_3600_ml.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>1944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1093.550697661143</xmin>
+        <ymin>940.0512865326863</ymin>
+        <xmax>1431.2141301865865</xmax>
+        <ymax>1284.447976965094</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1695.2843754077505</xmin>
+        <ymin>892.3989023192679</ymin>
+        <xmax>1851.1289857613517</xmax>
+        <ymax>1098.1704900630004</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1329.4822546972862</xmin>
+        <ymin>580.492462583239</ymin>
+        <xmax>1539.439599915188</xmax>
+        <ymax>820.9203673126306</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>959.3511812532621</xmin>
+        <ymin>173.28133704735376</ymin>
+        <xmax>1253.7244258872652</xmax>
+        <ymax>357.39275766016715</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1327.3177783305064</xmin>
+        <ymin>329.2345569153682</ymin>
+        <xmax>1571.9072408337684</xmax>
+        <ymax>504.6818776250218</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1881.4321503131525</xmin>
+        <ymin>836.08250082967</ymin>
+        <xmax>2022.1254260992955</xmax>
+        <ymax>1057.0161394634617</ymax>
+    </bndbox>
+</object>
+</annotation>

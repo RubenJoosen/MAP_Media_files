@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>164500_05-11_1800_ml.jpg</filename>
+    <path>Crabs-PascalVOC-export/Annotations/164500_05-11_1800_ml.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>1944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1136.8408855525836</xmin>
+        <ymin>1074.3443392697816</ymin>
+        <xmax>1327.3177783305064</xmax>
+        <ymax>1262.7878098341748</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>965.8446103536013</xmin>
+        <ymin>749.4418323059932</ymin>
+        <xmax>1154.1570267647444</xmax>
+        <ymax>998.5337543115643</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1223.4212613354646</xmin>
+        <ymin>641.1409966513971</ymin>
+        <xmax>1459.3528183716076</xmax>
+        <ymax>862.074635285189</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>896.580375782881</xmin>
+        <ymin>1316.9382276614729</ymin>
+        <xmax>1037.2734864300626</xmax>
+        <ymax>1501.0496482742863</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1686.6263048016701</xmin>
+        <ymin>437.5353925699643</ymin>
+        <xmax>1874.9385560738517</xmax>
+        <ymax>604.3186960034384</ymax>
+    </bndbox>
+</object>
+</annotation>

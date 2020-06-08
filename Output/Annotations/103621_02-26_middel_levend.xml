@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>103621_02-26_middel_levend.jpg</filename>
+    <path>Crabs-PascalVOC-export/Annotations/103621_02-26_middel_levend.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>1944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>130.34401707659185</xmin>
+        <ymin>1319.1042113237727</ymin>
+        <xmax>526.4492197693763</xmax>
+        <ymax>1672.1650016593403</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2.6380123385307934</xmin>
+        <ymin>472.1916269286429</ymin>
+        <xmax>335.9724095609343</xmax>
+        <ymax>946.549320146566</ymax>
+    </bndbox>
+</object>
+</annotation>

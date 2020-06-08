@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>122133_05-11_categorie_1.jpg</filename>
+    <path>Crabs-PascalVOC-export/Annotations/122133_05-11_categorie_1.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>1944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1431.4847929442851</xmin>
+        <ymin>1347.2624946955518</ymin>
+        <xmax>1557.0262387460857</xmax>
+        <ymax>1509.713748177446</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1909.8413361169103</xmin>
+        <ymin>606.4846796657382</ymin>
+        <xmax>2061.3571588759132</xmax>
+        <ymax>736.4456824512536</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1816.7673660947287</xmin>
+        <ymin>272.9181141122802</ymin>
+        <xmax>1983.4346885601515</xmax>
+        <ymax>411.5431754874652</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1212.8693771203027</xmin>
+        <ymin>123.46296917163562</ymin>
+        <xmax>1344.904417161404</xmax>
+        <ymax>268.5860641607003</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1710.7065378718685</xmin>
+        <ymin>1773.9677210730763</ymin>
+        <xmax>1855.7286012526097</xmax>
+        <ymax>1914.7588074240512</ymax>
+    </bndbox>
+</object>
+</annotation>

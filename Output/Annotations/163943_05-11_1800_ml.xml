@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>163943_05-11_1800_ml.jpg</filename>
+    <path>Crabs-PascalVOC-export/Annotations/163943_05-11_1800_ml.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>1944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1381.430513194807</xmin>
+        <ymin>803.5922501332913</ymin>
+        <xmax>1563.2493353666493</xmax>
+        <ymax>985.5376044568245</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1628.1846172038101</xmin>
+        <ymin>777.6000330507921</ymin>
+        <xmax>1864.1160091009917</xmax>
+        <ymax>1009.3638378770238</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1818.6613448427715</xmin>
+        <ymin>1052.6841721388623</ymin>
+        <xmax>1961.5190969956943</xmax>
+        <ymax>1254.1237099310151</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>626.0167014613779</xmin>
+        <ymin>372.5548911772066</ymin>
+        <xmax>929.0480167014614</xmax>
+        <ymax>690.9593645271152</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1078.3991979547234</xmin>
+        <ymin>389.88300835654593</ymin>
+        <xmax>1312.1661134851252</xmax>
+        <ymax>519.8440111420613</ymax>
+    </bndbox>
+</object>
+</annotation>

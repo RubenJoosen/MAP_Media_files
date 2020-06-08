@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>122721_05-11_categorie_1.jpg</filename>
+    <path>Crabs-PascalVOC-export/Annotations/122721_05-11_categorie_1.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>1944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1000.7473903966597</xmin>
+        <ymin>576.1604952586395</ymin>
+        <xmax>1137.111548310282</xmax>
+        <ymax>714.7855153203343</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2000.7508297723123</xmin>
+        <ymin>1459.8952976747476</ymin>
+        <xmax>2158.7600816316544</xmax>
+        <ymax>1626.6785184812413</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>450.9619711475731</xmin>
+        <ymin>1074.3443392697816</ymin>
+        <xmax>600.3131524008351</xmax>
+        <ymax>1221.6334592346361</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>327.58491914307155</xmin>
+        <ymin>1260.621826171875</ymin>
+        <xmax>509.40374131491393</xmax>
+        <ymax>1397.0807799442896</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>357.88808369487214</xmin>
+        <ymin>1031.024005007943</ymin>
+        <xmax>483.4296120661535</xmax>
+        <ymax>1165.3170577450383</ymax>
+    </bndbox>
+</object>
+</annotation>

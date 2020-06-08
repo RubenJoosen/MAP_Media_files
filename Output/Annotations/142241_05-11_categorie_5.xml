@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>142241_05-11_categorie_5.jpg</filename>
+    <path>Crabs-PascalVOC-export/Annotations/142241_05-11_categorie_5.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>1944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1340.3048016701462</xmin>
+        <ymin>324.9025069637883</ymin>
+        <xmax>1639.0071641766701</xmax>
+        <ymax>554.5003281277202</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1511.3010768691286</xmin>
+        <ymin>1113.33262358004</ymin>
+        <xmax>1812.1679157424323</xmax>
+        <ymax>1414.4089797506094</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1232.079331941545</xmin>
+        <ymin>1407.9108635097493</ymin>
+        <xmax>1465.8464126109084</xmax>
+        <ymax>1659.16876917762</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>677.9649599588988</xmin>
+        <ymin>738.6117487405336</ymin>
+        <xmax>905.2384463889614</xmax>
+        <ymax>957.3794037120256</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>556.7524668906576</xmin>
+        <ymin>394.2150583081259</ymin>
+        <xmax>861.9482584975209</xmax>
+        <ymax>701.789448092575</ymax>
+    </bndbox>
+</object>
+</annotation>

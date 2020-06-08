@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>170831_05-11_3600_ml.jpg</filename>
+    <path>Crabs-PascalVOC-export/Annotations/170831_05-11_3600_ml.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>1944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>978.8317988322026</xmin>
+        <ymin>992.0356380707042</ymin>
+        <xmax>1279.698472566545</xmax>
+        <ymax>1342.9303621169915</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1312.1661134851254</xmin>
+        <ymin>638.974930362117</ymin>
+        <xmax>1522.1236238419888</xmax>
+        <ymax>844.7465181058496</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1563.2493353666493</xmin>
+        <ymin>953.0473537604457</ymin>
+        <xmax>1708.2713987473905</xmax>
+        <ymax>1178.3131249727978</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1740.739039665971</xmin>
+        <ymin>879.4028350915086</ymin>
+        <xmax>1890.090220919233</xmax>
+        <ymax>1119.8306571939197</ymax>
+    </bndbox>
+</object><object>
+    <name>Crab</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1498.3140535294885</xmin>
+        <ymin>1191.3091922005572</ymin>
+        <xmax>1703.942446013831</xmax>
+        <ymax>1340.764378454692</ymax>
+    </bndbox>
+</object>
+</annotation>
